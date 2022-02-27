@@ -1,0 +1,194 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A nevv map of England. Or, Forty six quæries. By I.B.</title>
+            <author>I. B.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78175</idno>
+            <idno type="STC">Wing B86</idno>
+            <idno type="STC">Thomason E1001_3</idno>
+            <idno type="STC">ESTC R16589</idno>
+            <idno type="EEBO-CITATION">99860055</idno>
+            <idno type="PROQUEST">99860055</idno>
+            <idno type="VID">168724</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78175)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168724)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 148:E1001[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A nevv map of England. Or, Forty six quæries. By I.B.</title>
+                  <author>I. B.</author>
+               </titleStmt>
+               <extent>[2], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year, MDCLIX. [1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "October. 25".</note>
+                  <note>Reproductions of the originals in the Henry E. Huntington Library and Art Gallery, and the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Maps --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168724:1" rendition="simple:additions"/>
+            <p>A New MAP OF ENGLAND. OR, Forty ſix QUÆRIES.</p>
+            <p>By <hi>I. B.</hi>
+            </p>
+            <q>Contra publicos boſtes, &amp; majeſtatis reos omnis homo miles eſt, <bibl>
+                  <hi>ſayes</hi> Tertullian.</bibl>
+            </q>
+            <q>Jus &amp; aequitas vincula civitatum. <bibl>Cic.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, MDCLIX.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168724:2"/>
+            <pb n="1" facs="tcp:168724:2"/>
+            <p n="1">I. <seg rend="decorInit">W</seg>Hether when any ſober perſon prayed for the late <hi>Junto,</hi> it was not upon the ſame reaſon as the old Woman of <hi>S<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>racuſe</hi> prayed for the long life of the Tyrant <hi>Dionyſius,</hi> leſt the Devil ſhould come next.</p>
+            <p n="2">II. Whether <hi>Ariſtotle</hi> ſpake right,
+<note place="margin">
+                  <hi>Ariſt. pol. lib.</hi> 5. <hi>cap.</hi> 10.</note> that all Tyrants have been firſt Generals and Captains for the People, under pre<g ref="char:EOLhyphen"/>tenſe of vindicating, or defending their Liberties.</p>
+            <p n="3">III. Whether that was not the chiefeſt reaſon that the Rump had to keep the Generalſhip in their own hands.</p>
+            <p n="4">IV. Whether they are not juſtly retaliated to be ſo often ſtript of their uſurped Authority, ſince they as often ſub<g ref="char:EOLhyphen"/>verted the Government, under pretenſe of the liberty of the people, and the <hi>Chimera</hi> of the (Good old Cauſe) that they might invade that liberty themſelves.</p>
+            <p n="5">V. Whether if the Army ſhould purge the Rump of all the ill humours, they would not reduce it to a Nonentity, or at leaſt to make good the words of the Prophet <hi>Eliſhah.</hi>
+            </p>
+            <p n="6">VI. Whether the <hi>Junto</hi> were not miſtaken in their Plot to impoveriſh the people by Taxes, Exciſe, Decimations, <hi>&amp;c.</hi> (that they might want power if they had a will to ſhake off their <hi>Ægyptian</hi> Bondage) ſince they payed part of thoſe Levies to the noble Army, who thereby had power as well
+<pb n="4" facs="tcp:168724:3"/>as honeſty to diſcharge from the great trouble of getting Eſtates.</p>
+            <p n="7">VII. Whether the Army hath not dealt very hard with them to turn them to Graſs in ſo unſeaſonable a time.</p>
+            <p n="8">VIII. Whether <hi>Nebuchadnezar</hi>'s Judgment that hath befalne our <hi>Hogen-Mogen State</hi> were not for the ſame ſins, if not greater.</p>
+            <p n="9">IX. Whether <hi>Dr. Holmes</hi> ought not to be puniſhed by the Marſhal-law, for wreſting and torturing the Scripture to prove the <hi>Junto</hi> to be a lawful Government; And that it was their Providence, and not the Valour of the Army van<g ref="char:EOLhyphen"/>quiſhed thoſe that ſo valiantly ran away at <hi>Cheſter.</hi>
+            </p>
+            <p n="10">X. Whether <hi>Dr. Holmes</hi> married the <hi>Parliament</hi> (as he called it) and the Army by the Common-Prayer, ſince it is ſo ſoon become uneffectual.</p>
+            <p n="11">XI. Whether they be divorſed <hi>a menſa &amp; thoro,</hi> or, <hi>a vin<g ref="char:EOLhyphen"/>culo matrimonii.</hi>
+            </p>
+            <p n="12">XII. Whether it be not moſt advantageous that they be di<g ref="char:EOLhyphen"/>vorced <hi>a vinculo matrimonii cauſa frigiditatis</hi> (their Cha<g ref="char:EOLhyphen"/>rity being grown ſo cold) leaſt they come once more to u<g ref="char:EOLhyphen"/>ſurp by the Title of <hi>Dower;</hi> ſince all their other Titles will not hold water.</p>
+            <p n="13">XIII. Whether the Army ought not for the good of the Pub<g ref="char:EOLhyphen"/>lick to abate the place called the <hi>Houſe of Commons,</hi> leſt thoſe running Foxes ſteal once more into their Den.</p>
+            <p n="14">XIV. Whether thoſe Members do intend to riſe at the ſecond Reſurrection, having riſen twice already.</p>
+            <p n="15">XV. Whether the poor <hi>Cavaliers</hi> may not juſtly call that <hi>Houſe</hi> a Den of Thieves.</p>
+            <pb n="5" facs="tcp:168724:3"/>
+            <p n="16">XVI. Whether the <hi>Presbyterians</hi> might not to call the Speakers Chair the <hi>Stool of repentance.</hi>
+            </p>
+            <p n="17">XVII. Whether Mr. <hi>H. M.</hi> ought not to have the preheminence to name it the <hi>Bawdy-houſe</hi> (being generally in faſhion a<g ref="char:EOLhyphen"/>mong the beſt Saints.)</p>
+            <p n="18">XVIII. Whether Sir <hi>H. V.</hi> ought to be countenanced to call it the <hi>Houſe of prayer</hi> (but rather the <hi>Preaching houſe.</hi>)</p>
+            <p n="19">XIX. Whether the Army are not bound to ſell the Members of the Rump at the cheaper rate then in <hi>Fifty three,</hi> leſt they can find no other Cuſtomer beſide the Devil.</p>
+            <p n="20">XX. Whether it will not be convenient to except <hi>M. S.</hi> from Sale, and to give him liberty to ſet up Shop, having no o<g ref="char:EOLhyphen"/>ther Imployment now, to ſell the reſt of his fellow Mem<g ref="char:EOLhyphen"/>bers.</p>
+            <p n="21">XXI. Whether it be not fit for his better encouragement to prohibit any other beſide himſelf to utter any of them.</p>
+            <p n="22">XXII. Whether ſuch a Grant be a Monopoly.</p>
+            <p n="23">XXIII. Whether it be not <hi>Darcy</hi> and <hi>Allens</hi> Caſe in point, the Members of the <hi>Junto</hi> being as much the bane of a Com<g ref="char:EOLhyphen"/>mon-wealth, the Nurſerie of Rogues, and the deſtruction of great Eſtates, as the making and uttering of Cards can poſſibly be.</p>
+            <p n="24">XXIV. Whether the Judges of the Common-law will be compe<g ref="char:EOLhyphen"/>tent Judges of the Cauſe, ſince <hi>M. S.</hi> babled ſo much againſt the Law which he did not underſtand.</p>
+            <p n="25">XXV. Whether <hi>M. S.</hi> ought not to be Indicted of wilful Mur<g ref="char:EOLhyphen"/>ther,
+<pb n="6" facs="tcp:168724:4"/>upon the Statute of Stabbing, being credibly repor<g ref="char:EOLhyphen"/>ted that he killed Mr. Attorney <hi>Prideaux</hi> with his ſharp words and threats of refunding.</p>
+            <p n="26">XXVI. Whether thoſe Sycophants that fauned ſo much on the Infant Common-wealth (be not <hi>filii terrae</hi>) ſince the Army will not own them, nor give them leave once more to turn their thread-bare Coats.</p>
+            <p n="27">XXVII. Whether the <hi>Cavaliers,</hi> or M. <hi>Jo. Canne</hi> be now under the greater Curſe.</p>
+            <p n="28">XXVIII. Whether the Saints in <hi>Southwark</hi> did not perform their promiſe in their Addreſſes to the Parliament, That they would live and die with them, when a thouſand of them ſo valiantly appeared in Arms, and diſperſed themſelves at the ſight of 20 Redcoats.</p>
+            <p n="29">XXIX. Whether when they ſayd, That they would live and die with the <hi>Junto,</hi> that they did intend to live and die like them, <hi>viz.</hi> Knaves, Hypocrites and Rebels; ſince they con<g ref="char:EOLhyphen"/>ſtrue Scripture alwaies figuratively to ſerve their owne turns.</p>
+            <p n="30">XXX. Whether we may not juſtly cry out with the Roman Hoſt when <hi>Narciſſus</hi> came into the Tribunal of <hi>Plautius, Io Sa<g ref="char:EOLhyphen"/>turnalia?</hi> ſince ſo many Servants in theſe daies have put on the Habits of their Maſters.</p>
+            <p n="31">XXXI Whether Dr. <hi>Owen</hi>'s Infant Common-wealth was not an Anabaptiſt, ſince he nor Mr. <hi>Harrington</hi> could give it a Name.</p>
+            <p n="32">XXXII. Whether Dr. <hi>Owen</hi> ought not to unſwadle the Infant Common-wealth, and lick him clean, for it is feared by many wiſe men that it is all beſ—.</p>
+            <pb n="7" facs="tcp:168724:4"/>
+            <p n="33">XXXIII. Whether his Infant hath not crackt his crown againſt the Cradle, ſince he is become ſo addle headed.</p>
+            <p n="34">XXXIV. Whether it be not fit that Dr. <hi>Owen</hi> be made the Infant Common-wealths Tutor during its Minority.</p>
+            <p n="35">XXXV. Whether Mr. <hi>Harrington</hi> is ſtudying Monarchy, or an A<g ref="char:EOLhyphen"/>riſtocracy now, ſince his Democratical Government took no effect.</p>
+            <p n="36">XXXVI. Whether he did not take great pains to no purpoſe.</p>
+            <p n="37">XXXVII. Whether the Members that ſo highly oppoſed the En<g ref="char:EOLhyphen"/>gagement againſt a Monarchy, becauſe Chriſt was ſudden<g ref="char:EOLhyphen"/>ly to Reign perſonally upon earth, did not intend one of the Members of the Army.</p>
+            <p n="38">XXXVIII. Whether Sir <hi>A. H.</hi> zeal for a Common-wealth be not quite ſet on fire in this great day of tryal.</p>
+            <p n="39">XXXIX. Whether he would not willingly reſign his Biſhoprick to be a King, notwithſtanding he is a zealous <hi>Hogen Mogen</hi> man.</p>
+            <p n="40">XL. Whether Mr. <hi>Peters</hi> was not really aſleep when he made his Dream, or whether it be his own or no, being it con<g ref="char:EOLhyphen"/>tains ſo much truth.</p>
+            <p n="41">XLI. Whether then it ought not to be admitted for a Proverb, <hi>viz.</hi> That Knaves and mad men do ſpeak truth as well as Children and Fools.</p>
+            <p n="42">XLII. Whether Mr. <hi>Baxter</hi> be within the equity of the ſecond Propoſal of the Army to the laſt <hi>Junto,</hi> for charging Sir <hi>H.V.</hi> with Jeſuitiſm (cauſleſly and groundleſly) though Sir <hi>H.</hi> be no Member of the Army.</p>
+            <pb n="8" facs="tcp:168724:5"/>
+            <p n="43">XLIII. Whether the Army would not purchaſe eternal honour, and the general Love of the People, If they would (now while it lies in their power) remit thoſe Noble-men and Gentry that have offended againſt none beſides thoſe that were both the Armies and the Nations Scourge.</p>
+            <p n="44">XLIV. Whether thoſe Gentlemen, and the reſt of the Nation would not have omitted ſuch a Concurrence, in defence of the Laws, Priviledges of <hi>Parliament,</hi> and liberty of the people, if the Army had kept their Authority in their own hands, and not deputed thoſe that made a breach of all, un<g ref="char:EOLhyphen"/>der the ſacred Name of a <hi>free Parliament.</hi>
+            </p>
+            <p n="45">XLV. Whether it be not a Duty Incumbent on each indivi<g ref="char:EOLhyphen"/>dual Member of the Army (which they owe both to God and Man) to ſettle ſuch a Government (upon the <hi>Baſis</hi> of Religion and Law) that conſiſts with the Genius of the greater and moſt conſiderable number of the people, yea, and upon ſuch a Perſon in whom Right, Love of the Peo<g ref="char:EOLhyphen"/>ple, and Law do Concenter, that we be no longer carried away like an empty Cloud, with the Whirlwind of particu<g ref="char:EOLhyphen"/>lar mens Ambitions and Intereſts; more eſpecially ſince a ſetled Religion, Law, Liberty of the People, and Priviled<g ref="char:EOLhyphen"/>ges of Parliament wholy depended on it.</p>
+            <p n="46">XLVI. Whether if the Army ſeriouſly endeavour ſuch a ſettle<g ref="char:EOLhyphen"/>ment, they will not be more happy; more certain of their Pay, and due encouragement, and then may juſtly claim the Title of a GLORIOUS ARMY.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
